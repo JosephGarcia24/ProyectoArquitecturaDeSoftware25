@@ -882,3 +882,11 @@ Este diagrama ilustra el proceso de eliminación múltiple de empleados. El usua
 <img src="Img/secuenciaEliminarMultiple.png">
 
 ---
+
+## 5. Descripción de Caso de Uso
+
+Video demostrativo de la ejecución de la aplicación:
+
+**[Ver Video en YouTube](https://www.youtube.com/watch?v=VL6cTtzRnVc)**
+
+---
